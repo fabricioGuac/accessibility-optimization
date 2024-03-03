@@ -22,7 +22,7 @@ N/A
 
 ## URL to the deployed application
 
-http://127.0.0.1:5500/index.html
+https://fabricioguac.github.io/accessibility-optimization/
 
 ## License
 
