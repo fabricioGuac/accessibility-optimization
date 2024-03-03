@@ -1,6 +1,6 @@
 # accessibility-optimization
 
-##Description
+## Description
 
 This project is a code refactoring adding the proper semantic HTML elements and the alt tags to the images. Improving accessibility and readability of the code.
 
