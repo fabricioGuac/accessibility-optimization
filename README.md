@@ -18,7 +18,7 @@ N/A
 
 ## Screenshot displaying the deployed site
 
-
+![Horiseon marketing site](fabricioguac.github.io_accessibility-optimization_.png)
 
 ## URL to the deployed site
 
