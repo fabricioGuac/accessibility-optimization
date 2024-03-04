@@ -16,11 +16,11 @@ To view this project you can open the "index.html" file in your browser and use 
 
 N/A
 
-## Screenshot displaying the deployed application
+## Screenshot displaying the deployed site
 
 
 
-## URL to the deployed application
+## URL to the deployed site
 
 https://fabricioguac.github.io/accessibility-optimization/
 
